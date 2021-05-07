@@ -96,70 +96,66 @@ DocumentPath=Project Outputs for yy_led_display\BOM\Bill of Materials-yy_led_dis
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for yy_led_display\Design Rule Check - yy_led_display.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for yy_led_display\NC Drill\yy_led_display.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for yy_led_display\NC Drill\yy_led_display.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.REP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for yy_led_display\Gerber\yy_led_display.RUL
 DItemRevisionGUID=
 
@@ -495,6 +491,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -738,36 +746,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1139,16 +1117,220 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=1
+SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=led.IntLib
-ComponentDesignItemID0=CAY16
-ComponentSymbolReference0=CAY16
+ComponentLibraryIdentifier0=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID0=109
+ComponentSymbolReference0=Resistor
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID1=1163
+ComponentSymbolReference1=Capacitor
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID2=1234
+ComponentSymbolReference2=Capacitor
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID3=1246
+ComponentSymbolReference3=Capacitor
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID4=1331
+ComponentSymbolReference4=Capacitor
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID5=1448
+ComponentSymbolReference5=MALE_2PIN
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID6=1449
+ComponentSymbolReference6=MALE_3PIN
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID7=1450
+ComponentSymbolReference7=MALE_4PIN
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID8=1451
+ComponentSymbolReference8=MALE_5PIN
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID9=1452
+ComponentSymbolReference9=MALE_6PIN
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID10=1464
+ComponentSymbolReference10=Diode
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID11=1471
+ComponentSymbolReference11=N-MOS
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID12=1489
+ComponentSymbolReference12=LDO_1117
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID13=1504
+ComponentSymbolReference13=QUARTZ
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID14=29
+ComponentSymbolReference14=Resistor
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID15=3557
+ComponentSymbolReference15=74HC595D
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID16=3559
+ComponentSymbolReference16=LED
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID17=3562
+ComponentSymbolReference17=WS2812C-2020
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID18=3576
+ComponentSymbolReference18=ESP32-WROOM-32
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID19=3578
+ComponentSymbolReference19=AiP8563
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID20=3579
+ComponentSymbolReference20=Capacitor_polarised
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID21=3582
+ComponentSymbolReference21=Shottky
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID22=3587
+ComponentSymbolReference22=MT3608
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID23=3597
+ComponentSymbolReference23=RS0101YH6
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID24=3599
+ComponentSymbolReference24=Zener_TVS
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID25=3600
+ComponentSymbolReference25=Drossel
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Library Name And Type
+ComponentLibraryIdentifier26=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID26=3602
+ComponentSymbolReference26=Resistor_array_4
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Library Name And Type
+ComponentLibraryIdentifier27=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID27=49
+ComponentSymbolReference27=Resistor
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Library Name And Type
+ComponentLibraryIdentifier28=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID28=57
+ComponentSymbolReference28=Resistor
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Library Name And Type
+ComponentLibraryIdentifier29=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID29=61
+ComponentSymbolReference29=Resistor
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Library Name And Type
+ComponentLibraryIdentifier30=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID30=65
+ComponentSymbolReference30=Resistor
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Library Name And Type
+ComponentLibraryIdentifier31=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID31=69
+ComponentSymbolReference31=Resistor
+ComponentUpdate31=1
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Library Name And Type
+ComponentLibraryIdentifier32=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID32=73
+ComponentSymbolReference32=Resistor
+ComponentUpdate32=1
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Library Name And Type
+ComponentLibraryIdentifier33=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID33=89
+ComponentSymbolReference33=Resistor
+ComponentUpdate33=1
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Library Name And Type
+ComponentLibraryIdentifier34=IZTT_Library.DbLib/v_all_radioparts
+ComponentDesignItemID34=97
+ComponentSymbolReference34=Resistor
+ComponentUpdate34=1
+ComponentIsDeviceSheet34=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1168,22 +1350,110 @@ ParameterName1=Component Kind
 ParameterUpdate1=1
 ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=LCPN
+ParameterName3=Footprint
 ParameterUpdate3=1
-ParameterName4=Library Reference
+ParameterName4=Footprint Type
 ParameterUpdate4=1
-ParameterName5=MFPN
+ParameterName5=ID
 ParameterUpdate5=1
-ParameterName6=Supplier
+ParameterName6=LCPN
 ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=Manufacturer
+ParameterUpdate8=1
+ParameterName9=MFPN
+ParameterUpdate9=1
+ParameterName10=Supplier
+ParameterUpdate10=1
+ParameterName11=Symbol
+ParameterUpdate11=1
+ParameterName12=Type
+ParameterUpdate12=1
+ParameterName13=URL
+ParameterUpdate13=1
+ParameterName14=Value
+ParameterUpdate14=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=RA1206_4_TC
+ModelName0=1207H
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=RA1206_4_YC
+ModelName1=C0603
 ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=C0805
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=ESP-WROOM-32
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=HBCC
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=KX-327NHT
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=LED0603Y
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=MiniMELF_Diode
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=R0603
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=RESA_4x0402
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=SCD0302
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=SCD0302_OR_L1206
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=SMD-5032
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=SO-16
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=SO-8
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=SO-8(uni)
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=SOD-323_DIODE
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=SOT-223
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=SOT-23-3
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=SOT-23-6
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=WK-02
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=WK-03
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=WK-04
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=WK-05
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=WK-06
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=WS2812C-2020
+ModelUpdate25=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

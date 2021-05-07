@@ -176,17 +176,17 @@ PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration7_Name1=ColumnNameFormat
 Configuration7_Item1=CaptionAsName
 Configuration7_Name2=General
-Configuration7_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1256|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration7_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1508|FormHeight=904|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration7_Name3=GroupOrder
-Configuration7_Item3=Comment=True|Value=True
+Configuration7_Item3=Description=True|LCPN=True
 Configuration7_Name4=OutputConfigurationParameter1
 Configuration7_Item4=???????????
 Configuration7_Name5=SortOrder
-Configuration7_Item5=Designator=Up
+Configuration7_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration7_Name6=VisibleOrder
-Configuration7_Item6=Designator=104|Description=125|Comment=174|Quantity=26|Value=100|MFPN=100|LCPN=100
+Configuration7_Item6=Designator=257|Description=125|Comment=174|Quantity=26|Value=100|Footprint=100|MFPN=100|LCPN=100
 Configuration7_Name7=VisibleOrder_Flat
-Configuration7_Item7=Designator=104|Description=125|Comment=174|Quantity=26|Value=100|MFPN=100|LCPN=100
+Configuration7_Item7=Designator=257|Description=125|Comment=174|Quantity=26|Value=100|Footprint=100|MFPN=100|LCPN=100
 
 [PublishSettings]
 OutputFilePath2=C:\Users\kochn\Desktop\inprogress\BOARDS\YY_pcb\PCB\Project Outputs for yy_led_display\UF_MCU_board.PDF
